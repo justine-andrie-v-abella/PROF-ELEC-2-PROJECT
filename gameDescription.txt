@@ -1,0 +1,39 @@
+🎮 Dual Game Modes
+Single Player Campaign: Progress through 6+ levels with increasing difficulty
+2-Player Race Mode: Competitive head-to-head maze racing
+
+🌙 Dynamic Lighting System
+Dark Levels: Levels beyond Level 5 feature limited visibility
+Flashlight Collectibles: Find flashlights to expand your light radius
+Realistic Darkness: Light is realistically blocked by walls
+
+🏁 2-Player Racing
+Choose Your Challenge: Light Mode (full visibility) or Dark Mode (limited vision)
+Fast-Paced Competition: First player to reach the finish line wins!
+
+Player Controls:
+Player 1 (Blue): W/A/S/D keys
+Player 2 (Pink): Arrow keys
+
+🗺️ Progressive Level System
+Level Progression: Complete levels sequentially to unlock new challenges
+Visual Previews: See level layouts before playing
+Completion Tracking: Save progress between sessions
+
+🎯 Gameplay Elements
+Maze Navigation: Find the optimal path through complex labyrinths
+Time Tracking: Compete for fastest completion times
+Strategic Collection: Gather flashlights to survive dark levels
+
+Technical Highlights:
+Procedural Maze Generation for 2-player races
+Camera System that follows player movement
+Raycasting Lighting for realistic dark level effects
+JSON Level Loading for easy level creation and modification
+Progress Saving system to track completed levels
+
+Perfect For:
+Casual Gamers who enjoy puzzle-solving
+Competitive Friends looking for quick racing matches
+Maze Enthusiasts who love navigation challenges
+PyGame Learners studying game development techniques

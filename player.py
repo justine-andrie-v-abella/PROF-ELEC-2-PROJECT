@@ -38,7 +38,7 @@ class Mario:
         scale_factor = .5  # Adjust this value to change size
         # Load walk down frames (0-7)
         for i in range(8):
-            filename = f"mario_walkdown{i}.png"
+            filename = f"images/mario_walkdown{i}.png"
             try:
                 if os.path.exists(filename):
                     frame = pygame.image.load(filename).convert_alpha()
@@ -52,7 +52,7 @@ class Mario:
         
         # Load walk right frames (0-7)
         for i in range(8):
-            filename = f"mario_walkright{i}.png"
+            filename = f"images/mario_walkright{i}.png"
             try:
                 if os.path.exists(filename):
                     frame = pygame.image.load(filename).convert_alpha()
@@ -66,7 +66,7 @@ class Mario:
         
         # Load walk up frames (0-7)
         for i in range(8):
-            filename = f"mario_walkup{i}.png"
+            filename = f"images/mario_walkup{i}.png"
             try:
                 if os.path.exists(filename):
                     frame = pygame.image.load(filename).convert_alpha()
